@@ -1,0 +1,13 @@
+employee_id,name,team,role,level,location,fte,base_salary,start_month
+E001,A. Chen,FP&A,Finance Manager,M2,SF,1.0,165000,2024-03
+E002,J. Patel,FP&A,FP&A Analyst,IC3,SF,1.0,118000,2025-01
+E003,M. Ortiz,FP&A,FP&A Analyst,IC2,Austin,1.0,92000,2025-06
+E004,S. Nguyen,Controller,Controller,M3,SF,1.0,210000,2023-09
+E005,R. Cole,Controller,Staff Accountant,IC2,Austin,1.0,85000,2024-11
+E006,K. Brooks,Controller,Staff Accountant,IC1,Austin,1.0,72000,2026-02
+E007,L. Park,RevOps,RevOps Lead,M1,Remote,1.0,155000,2024-07
+E008,T. Singh,RevOps,RevOps Analyst,IC2,Remote,1.0,98000,2025-09
+E009,H. Diaz,People,HRBP,M1,SF,1.0,140000,2025-04
+E010,C. Walsh,Data,Analytics Manager,M2,SF,1.0,175000,2024-05
+E011,Y. Kim,Data,Data Analyst,IC3,Remote,1.0,125000,2025-03
+E012,P. Rossi,Data,Data Analyst,IC2,Austin,0.8,88000,2026-01

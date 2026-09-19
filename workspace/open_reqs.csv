@@ -1,0 +1,7 @@
+req_id,team,role,level,location,fte,midpoint,planned_start,priority
+R01,FP&A,Senior FP&A Analyst,IC4,SF,1.0,145000,2026-11,must
+R02,Controller,AP Specialist,IC2,Austin,1.0,78000,2026-12,should
+R03,Data,Analytics Engineer,IC3,Remote,1.0,150000,2026-11,must
+R04,Data,Data Analyst,IC2,Austin,1.0,95000,2027-01,nice
+R05,RevOps,Systems Analyst,IC3,Remote,1.0,120000,2026-12,should
+R06,People,Recruiter,IC2,SF,1.0,110000,2027-02,nice

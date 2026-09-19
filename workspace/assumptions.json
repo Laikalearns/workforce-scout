@@ -1,0 +1,13 @@
+{
+  "company": "Northline",
+  "planning_month": "2026-10",
+  "horizon_months": 6,
+  "burden_rate": 1.28,
+  "annual_attrition": 0.08,
+  "fy_hc_opex_cap": 1070000,
+  "notes": {
+    "burden_rate": "Fully loaded = base * 1.28 (benefits, taxes, employer overhead).",
+    "attrition": "Simple monthly attrition applied to existing roster only.",
+    "cap": "FY26 remaining people opex cap for Oct-Mar window."
+  }
+}
