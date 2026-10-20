@@ -1,10 +1,23 @@
 # Workforce Scout
 
-A small finance agent for **headcount planning**.
+A small, self-contained finance agent for **headcount planning**.
 
 It reads a roster and open reqs, rolls a 6-month fully loaded cost, and tells you whether the hire plan fits the people-opex cap.
 
-Demo mode uses the same math as live mode. No API key required.
+Demo mode uses the same math as live mode. **No API key required.**
+
+## Why this exists
+
+Most headcount tools either require heavy enterprise software or force you to build spreadsheets from scratch. Workforce Scout is a lightweight, runnable agent that shows the math clearly and supports quick scenario comparisons — useful for interviews, demos, or small teams.
+
+## Features
+
+- Fully loaded cost calculation (base salary × burden × timing)
+- Multiple scenarios (`base`, `no_nice`, `must_only`, `freeze_all`)
+- Cap check and recommended cuts
+- Simple web UI + API
+- Writes a CFO-style brief to disk
+- Swap in real CSVs and it still works
 
 ## Run
 
@@ -17,7 +30,7 @@ python app.py
 
 Open http://127.0.0.1:8000
 
-## What it plans
+## What it plans (demo)
 
 - Company: fictional **Northline**
 - Window: Oct 2026 – Mar 2027
